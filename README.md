@@ -1,4 +1,4 @@
-# Roberta - Personal Trainer Website
+# Personal Trainer Website
 
 Fully Responsive Website for Personal Trainer.
 Coded by me from scratch :)
