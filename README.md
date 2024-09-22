@@ -9,9 +9,3 @@ Front end:
 * CSS
 * Bootstrap 4
 * Vanilla Javascript
-
-Backend:
-
-* Node.js
-* Express
-* NodeMailer
